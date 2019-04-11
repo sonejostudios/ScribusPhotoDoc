@@ -88,7 +88,7 @@ __Tips:__
 - Try to put also arrows and links into the images to navigate directly
 - Reduce the size of your pictures before starting PhotoDoc to speed up the process and reduce the PDF file size
 - Use the power of Scribus to enhance the documentation with textes, arrows, weblinks...
-- If you need to reproduce a step, delete the step layer and restart step script, e.g. "add_exit_buttons.py"
+- If you need to reproduce a step, delete the step layer and restart the step script, e.g. "add_exit_buttons.py"
 - Export a PDF with 96 dpi as image resolution to reduce the PDF file size
 
 
