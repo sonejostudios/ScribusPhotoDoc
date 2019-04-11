@@ -9,7 +9,7 @@ A collection of scripts for Scribus to create navigable PDF photo documentations
 __Description:__
 
 This is a collection of python scripts for Scribus to build navigable PDF photo documentations.
-Use case: You took a lot of pictures from a building and objects in that building. Having a lot of pictures is nice, but quite useless without the information about the position and direction. And after one year, you don't know anymore where the pictures were taken! 
+Use case: You took a lot of pictures from a building and objects in that building. Having a lot of pictures is nice, but quite useless without the information about the position and direction. And maybe you want to add even more information to the pictures, highlight or link objetcs, add descriptions, names, etc...
 This collection of scripts may be a solution for this. They import all the pictures of a specific folder into a new scribus project (one picture / page) and create basic navigation buttons for the PDF file.
 After exporting, you get a PDF file in which you can navigate between the pictures by clicking on the different items and arrows.
 Of course, this can be used not only for maps and buildings, but also for any kind of photo documentation, e.g. for objects, details, whatever...
