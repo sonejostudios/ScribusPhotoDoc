@@ -1,5 +1,5 @@
 # ScribusPhotoDoc
-A collection of scripts for Scribus to create advanced photo documentations.
+A collection of scripts for Scribus to create navigable PDF photo documentations.
 
 
 
@@ -8,7 +8,7 @@ A collection of scripts for Scribus to create advanced photo documentations.
 
 __Description:__
 
-This is a collection of python scripts for Scribus to build advanced PDF photo documentations.
+This is a collection of python scripts for Scribus to build navigable PDF photo documentations.
 Use case: You took a lot of pictures from a building and objects in that building. After one year, you don't know anymore where the pictures were taken! 
 This collection of scripts may be a solution for this. They import all the pictures of a specific folder into a new scribus project (one picture / page) and create basic navigation buttons for the PDF file.
 After exporting, you get a PDF File in which you can navigate between the pictures by clicking on the different items and arrows.
