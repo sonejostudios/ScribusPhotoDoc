@@ -7,6 +7,7 @@ A collection of scripts for Scribus to create advanced photo documentations.
 
 
 __Description:__
+
 This is a collection of python scripts for Scribus to build advanced photo documentations (to be exported as PDF).
 The idea is: You took a lot of pictures from e.g. a building and things in that building. 
 After One year, you don't know anymore where the pictures were taken! This collection of scripts may be a solution for this. 
@@ -14,6 +15,7 @@ They import all the pictures of a specific folder into a new scribus project (on
 After exporting, you get a PDF File in which you can navigate between the pictures by clicking on the different items and arrows.
 
 __Scripts:__
+
 ScribusPhotoDoc is made of 3 (+1 Main) python scripts:
 
 1. import_all_images.py : This script creates a new project and import all images of choosen folder into scribus pages (on the "Background" layer). If wanted, it can add the file names of the pictures to each page on a "Filenames" layer.
@@ -26,10 +28,12 @@ ScribusPhotoDoc is made of 3 (+1 Main) python scripts:
 
 
 __Instalation:__
+
 Download the .zip file and unzip it where you want, if you have a Scribus Script folder, unzip it there!
 
 
 __Usage (Starting):__
+
 1. Prepare your working directory: Create a new folder and put all the pictures you want for the documentation inside this folder. Be sure you have only one picture for each "view" or "object"! If not, remove all unneeded pictures.
 
 2. Change the filenames of the pictures, so they are in the order you want (e.g. put the map of the building as first file by adding 00_ to the filename as prefix).
@@ -40,6 +44,7 @@ __Usage (Starting):__
 
 
 __Usage (PhotoDoc Wizard):__
+
 1. A new Document Dialog will pop up. Make the adjustments you want for your project. I recommand Single Page, Format = Letter, Orientation = Landscape, Bleed = 0. Leave "Number of pages" to 1. Press OK.
 
 2. A folder chooser dialog will pop up. Choose your working directory with the pictures you prepared before. Press OK.
@@ -55,7 +60,8 @@ __Usage (PhotoDoc Wizard):__
 7. If the done dialog is poping up, everything is set up up correctly! Spread your arrows and links and export your project to a PDF File.
 
 
-__Layers__
+__Layers:__
+
 When the script is done, the following layers have been created:
 - Arrowlinks: a layer with the arrows and the annotation links to the pages
 - Exitbuttons: a layer with the exit buttons
@@ -63,7 +69,8 @@ When the script is done, the following layers have been created:
 - Background : a layer with the images
     
 
-__Tips__
+__Tips:__
+
 - Show layers in Scribus: Menu/Windows/Layers or F6
 - Rotate object (e.g. arrows): R (do not rotate the links!)
 - Show object properties: Menu/Windows/Properties or F2
