@@ -46,7 +46,7 @@ __Usage (Starting):__
 
 3. Start Scribus (you don't need to create a new project, so cancel the new project dialog).
 
-4. In Menu "Scripter", "Execute Script", choose Full_PhotoDoc.py. This will start the full PhotoDoc Wizard script (see below). If used one, you will find it also under "Recent Scripts".
+4. In Menu "Scripter", "Execute Script", choose Full_PhotoDoc.py. This will start the full PhotoDoc Wizard script (see below). If used once, you will find it also under "Recent Scripts".
 
 
 
