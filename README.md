@@ -8,11 +8,11 @@ A collection of scripts for Scribus to create advanced photo documentations.
 
 __Description:__
 
-This is a collection of python scripts for Scribus to build advanced photo documentations (to be exported as PDF).
-The idea is: You took a lot of pictures from e.g. a building and things in that building. 
-After One year, you don't know anymore where the pictures were taken! This collection of scripts may be a solution for this. 
-They import all the pictures of a specific folder into a new scribus project (one picture / page) and create baseic navigation buttons for the PDF file.
+This is a collection of python scripts for Scribus to build advanced PDF photo documentations.
+Use case: You took a lot of pictures from a building and objects in that building. After one year, you don't know anymore where the pictures were taken! 
+This collection of scripts may be a solution for this. They import all the pictures of a specific folder into a new scribus project (one picture / page) and create basic navigation buttons for the PDF file.
 After exporting, you get a PDF File in which you can navigate between the pictures by clicking on the different items and arrows.
+Of course, this can be used not only for maps and buildings, but also for any kind of photo documentation, e.g. for objects, details, whatever...
 
 
 __Scripts:__
@@ -28,7 +28,7 @@ ScribusPhotoDoc is made of 3 (+1 Main) python scripts:
 4. __Full_PhotoDoc.py__ : This is the main script. It just starts each of the previous script in the right order. Start this script for a full PhotoDoc experience! :)
 
 
-Each script is a whole scribus script, which can be used separately.
+Each script is a whole Scribus script, which can be used separately.
 
 
 
