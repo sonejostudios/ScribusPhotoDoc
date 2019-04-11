@@ -51,11 +51,16 @@ Tips:
     - Show layers in Scribus: Menu/Windows/Layers or F6
     - Rotate object (e.g. arrows): R (do not rotate the links!)
     - Show object properties: Menu/Windows/Properties or F2
-    - In the properties, you can rotate and resize the images (select the "Background" layer first)
+    - In the properties, you can rotate and resize the images
+        (select the "Background" layer first)
     - The object name of a link shows the destination page, e.g. "link_to_page_7"
-    - Reduce the size of your pictures before starting PhotoDoc to speed up the process and reduce the PDF file size
     - Try to put also arrows and links into the images to navigate directly
-    - Use the power of Scribus to enhance the documentation with textes, arrows, weblinks...
+    - Reduce the size of your pictures before starting PhotoDoc to speed up
+        the process and reduce the PDF file size
+    - Use the power of Scribus to enhance the documentation with textes, 
+        arrows, weblinks...
+    - If you need to reproduce a step, delete the step layer and restart step script,
+        e.g. "add_exit_buttons.py"
     - Export a PDF with 96 dpi as image resolution to reduce the PDF file size
 """
     scribus.messageBox("PhotoDoc", donetext)
