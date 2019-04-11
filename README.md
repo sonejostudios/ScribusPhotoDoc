@@ -18,13 +18,13 @@ __Scripts:__
 
 ScribusPhotoDoc is made of 3 (+1 Main) python scripts:
 
-1. import_all_images.py : This script creates a new project and import all images of choosen folder into scribus pages (on the "Background" layer). If wanted, it can add the file names of the pictures to each page on a "Filenames" layer.
+1. __import_all_images.py__ : This script creates a new project and import all images of choosen folder into scribus pages (on the "Background" layer). If wanted, it can add the file names of the pictures to each page on a "Filenames" layer.
 
-2. add_exit_buttons.py : This script creates an "exit button" on each page, allowing to navigate back to a specific page (default = page 1). All exit buttons are placed in a new layer called "Exitbuttons".
+2. __add_exit_buttons.py__ : This script creates an "exit button" on each page, allowing to navigate back to a specific page (default = page 1). All exit buttons are placed in a new layer called "Exitbuttons".
 
-3. add_arrows_and_links.py : This script adds as many arrows and annotation links as pages to a specific page (default = page 1). All arrows and annotation links are placed in a new layer called "Arrowlinks". Each link is named to its linked page, e.g. "link_to_page_7".
+3. __add_arrows_and_links.py__ : This script adds as many arrows and annotation links as pages to a specific page (default = page 1). All arrows and annotation links are placed in a new layer called "Arrowlinks". Each link is named to its linked page, e.g. "link_to_page_7".
 
-4. Full_PhotoDoc.py : This is the main script. It just starts each of the previous script in the right order. Start this script for a full PhotoDoc experience! :)
+4. __Full_PhotoDoc.py__ : This is the main script. It just starts each of the previous script in the right order. Start this script for a full PhotoDoc experience! :)
 
 
 __Instalation:__
