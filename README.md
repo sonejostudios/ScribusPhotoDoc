@@ -14,6 +14,7 @@ After One year, you don't know anymore where the pictures were taken! This colle
 They import all the pictures of a specific folder into a new scribus project (one picture / page) and create baseic navigation buttons for the PDF file.
 After exporting, you get a PDF File in which you can navigate between the pictures by clicking on the different items and arrows.
 
+
 __Scripts:__
 
 ScribusPhotoDoc is made of 3 (+1 Main) python scripts:
@@ -27,9 +28,14 @@ ScribusPhotoDoc is made of 3 (+1 Main) python scripts:
 4. __Full_PhotoDoc.py__ : This is the main script. It just starts each of the previous script in the right order. Start this script for a full PhotoDoc experience! :)
 
 
+Each script is a whole scribus script, which can be used separately.
+
+
+
 __Instalation:__
 
 Download the .zip file and unzip it where you want, if you have a Scribus Script folder, unzip it there!
+
 
 
 __Usage (Starting):__
@@ -40,7 +46,8 @@ __Usage (Starting):__
 
 3. Start Scribus (you don't need to create a new project, so cancel the new project dialog).
 
-4. In Menu "Scripter", "Execute Script", choose Full_Photo_Doc.py. This will start the full PhotoDoc Wizard script (see below). If used one, you will find it also under "Recent Scripts".
+4. In Menu "Scripter", "Execute Script", choose Full_PhotoDoc.py. This will start the full PhotoDoc Wizard script (see below). If used one, you will find it also under "Recent Scripts".
+
 
 
 __Usage (PhotoDoc Wizard):__
@@ -60,6 +67,7 @@ __Usage (PhotoDoc Wizard):__
 7. If the done dialog is poping up, everything is set up up correctly! Spread your arrows and links and export your project to a PDF File.
 
 
+
 __Layers:__
 
 When the script is done, the following layers have been created:
@@ -68,6 +76,7 @@ When the script is done, the following layers have been created:
 - Filenames:  a layer with the file names of the images (if wanted)
 - Background : a layer with the images
     
+
 
 __Tips:__
 
