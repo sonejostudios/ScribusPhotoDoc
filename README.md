@@ -52,7 +52,7 @@ __Usage (Starting):__
 
 __Usage (PhotoDoc Wizard):__
 
-1. A new Document Dialog will pop up. Make the adjustments you want for your project. I recommand Single Page, Format = Letter, Orientation = Landscape, Bleed = 0. Leave "Number of pages" to 1. Press OK.
+1. A New Document Dialog will pop up. Make the adjustments you want for your project. I recommand Single Page, Format = Letter, Orientation = Landscape, Bleed = 0. Leave "Number of pages" to 1. Press OK.
 
 2. A Folder Chooser Dialog will pop up. Choose your working directory with the pictures you prepared before. Press OK.
 
