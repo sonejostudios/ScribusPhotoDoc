@@ -16,8 +16,12 @@ Of course, this can be used not only for maps and buildings, but also for any ki
 
 __Example:__
 
-Here is an example of PhotoDoc, showing a virtual recording studio: https://github.com/sonejostudios/ScribusPhotoDoc/blob/master/photodoc_example.pdf
+Here is an example of PhotoDoc, showing a virtual recording studio: 
+https://github.com/sonejostudios/ScribusPhotoDoc/blob/master/photodoc_example.pdf
+
 Open it in you favorit PDF viewer to navigate! (e.g XReader, Evince, Acrobat Reader...)
+
+
 
 __Scripts:__
 
