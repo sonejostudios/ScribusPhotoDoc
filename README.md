@@ -14,6 +14,10 @@ This collection of scripts may be a solution for this. They import all the pictu
 After exporting, you get a PDF file in which you can navigate between the pictures by clicking on the different items and arrows.
 Of course, this can be used not only for maps and buildings, but also for any kind of photo documentation, e.g. for objects, details, whatever...
 
+__Example:__
+
+Here is an example of PhotoDoc, showing a virtual recording studio: https://github.com/sonejostudios/ScribusPhotoDoc/blob/master/photodoc_example.pdf
+Open it in you favorit PDF viewer to navigate! (e.g XReader, Evince, Acrobat Reader...)
 
 __Scripts:__
 
