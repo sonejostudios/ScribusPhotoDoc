@@ -64,7 +64,7 @@ __Usage (PhotoDoc Wizard):__
 
 2. A Folder Chooser Dialog will pop up. Choose your working directory with the pictures you prepared before. Press OK.
 
-3. A File Filter Dialog will pop up. If you want to filter some image extensions or names, change the value, otherwise leave "*.*" Caustion: This filter is case sensitive! Press OK.
+3. A File Filter Dialog will pop up. If you want to filter some image extensions or names, change the value, otherwise leave "*.*" Caution: This filter is case sensitive! Press OK.
 
 4. An Import Images Dialog will pop up with the amount of (filtered) images found. If you want to add the file names to the images, press Yes. If you want to leave the images without filenames, press No. Scribus will import all the images into the project and add filenames if wanted. Depending on the amount of images, this can take some time.
 
