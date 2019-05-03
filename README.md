@@ -70,7 +70,7 @@ __Usage (PhotoDoc Wizard):__
 
 5. An Exit Page Dialog will pop up. Choose the destination page for the exit buttons (default = page 1). Usually, it should be the page with the general map. Press OK. Scribus will create an exit button on each page. Depending on the amount of images, this can take some time.
 
-6. An Select Page Dialog for arrows and links creation is poping up. Choose the destination page for the arrows and links (default = page 1). Usually, it should be the page with the general map. Press OK. Scribus will create of each page an arrow an a link on the selected page. Depending on the amount of images, this can take some time.
+6. A Select Page Dialog for arrows and links creation is poping up. Choose the destination page for the arrows and links (default = page 1). Usually, it should be the page with the general map. Press OK. Scribus will create for each page an arrow and a link on the selected page. Depending on the amount of images, this can take some time.
 
 7. If the Done Dialog is poping up, everything is set up up correctly! Spread your arrows and links and export your project to a PDF File.
 
