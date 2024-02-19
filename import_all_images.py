@@ -7,9 +7,9 @@ import os
 
 try:
     import scribus
-except ImportError, err:
-    print "This Python script is written for the Scribus scripting interface."
-    print "It can only be run from within Scribus."
+except ImportError:
+    print("This Python script is written for the Scribus scripting interface.")
+    print("It can only be run from within Scribus.")
     sys.exit(1)
 
 
@@ -32,7 +32,6 @@ def main(argv):
         # ask for workdir
         workdir = scribus.fileDialog("Open directory with images", "", haspreview=False, issave=False, isdir=True)
         #workdir = "/media/sda7/StudioSession3/PDFTools/pics"
-        #workdir = "/media/sda7/ISG/Itex/PhotoVisit/Boilerroom"
         
         # file filter
         filefilter = scribus.valueDialog("File filter", "File filter examples: \n\n* or *.* = add all files\n*.jpg = add .jpg files only\nIMG_*.* = add all files starting with IMG_\n\nThis filter is case sensitive!","*.*")
